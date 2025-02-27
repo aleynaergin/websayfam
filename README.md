@@ -1,2 +1,2 @@
-# websayfam
-küçük bir web sayfası hazırladım
+# proje sayfama hoşgeldiniz!
+küçük bir web sayfası hazırladım.
